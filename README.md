@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?RaufERK&theme=synthwave&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaufERK&theme=synthwave&show_icons=true)
+
+
