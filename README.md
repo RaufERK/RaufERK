@@ -1,9 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rauf%20Erk&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+modern+web+applications;2700%2B+contributions+and+counting..." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E9EF7&center=true&vCenter=true&multiline=false&width=500&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;2700%2B+contributions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,24 +9,20 @@
     <img src="https://img.shields.io/github/followers/RaufERK?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6E9EF7" alt="Followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=RaufERK&style=for-the-badge&color=6E9EF7&labelColor=0D1117" alt="Profile Views"/>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Hire_Me-Open_to_Work-brightgreen?style=for-the-badge&labelColor=0D1117" alt="Hire Me"/>
-  </a>
+  <img src="https://img.shields.io/badge/Hire_Me-Open_to_Work-brightgreen?style=for-the-badge&labelColor=0D1117" alt="Hire Me"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-```javascript
-const rauf = {
-    location: "🌍 Based in ...",
-    currentFocus: "Building scalable web applications",
-    learning: ["System Design", "Cloud Architecture"],
-    askMeAbout: ["React", "Next.js", "TypeScript", "Node.js", "APIs"],
-    funFact: "I mass-produce MVPs ⚡"
-};
-```
+| | |
+|---|---|
+| 🔭 | Currently building **scalable web applications** |
+| 🚀 | Specializing in **React, Next.js, TypeScript, Node.js** |
+| 📚 | Learning **System Design & Cloud Architecture** |
+| ⚡ | Fun fact: **I mass-produce MVPs** |
+| 💼 | Open for **Full-Stack / Frontend positions** |
 
 ---
 
@@ -43,20 +37,7 @@ const rauf = {
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaufERK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E9EF7&icon_color=6E9EF7&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=RaufERK&theme=tokyonight&hide_border=true&background=0D1117&ring=6E9EF7&fire=6E9EF7&currStreakLabel=6E9EF7" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaufERK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E9EF7&text_color=FFFFFF" alt="Top Languages"/>
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaufERK&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=RaufERK&theme=tokyonight&hide_border=true&background=0D1117&ring=6E9EF7&fire=6E9EF7&currStreakLabel=6E9EF7" alt="GitHub Streak"/>
 </p>
 
 ---
